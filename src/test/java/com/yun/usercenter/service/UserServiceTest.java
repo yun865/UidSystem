@@ -1,6 +1,5 @@
 package com.yun.usercenter.service;
 
-// [编程学习交流圈](https://www.code-nav.cn/) 连接万名编程爱好者，一起优秀！20000+ 小伙伴交流分享、40+ 大厂嘉宾一对一答疑、100+ 各方向编程交流群、4000+ 编程问答参考
 
 import com.yun.usercenter.model.domain.User;
 import org.junit.jupiter.api.Assertions;
@@ -66,7 +65,6 @@ public class UserServiceTest {
         Assertions.assertTrue(result);
     }
 
-    // https://space.bilibili.com/12890453/
 
     /**
      * 测试获取用户
